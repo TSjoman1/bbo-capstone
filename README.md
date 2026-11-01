@@ -13,7 +13,6 @@ Imagine eight locked machines. Each one takes a few dial settings and gives back
 | `model_card.md` | Model card: the surrogate models, performance and limitations |
 | `bbo_week10_run.py` | Pipeline used in weeks 9–12 (ensemble surrogates and trust regions) |
 | `bbo_week13_final.py` | Final-query script: function-specific models; all 12 weeks of data embedded |
-| `[notebook].ipynb` | **[Add your Jupyter notebook presenting the method and results]** |
 | `data/` | Initial `.npy` input and output files for the eight functions (small, under 10 KB each) |
 | `images/best_so_far.png` | Progress chart used below |
 
