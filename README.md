@@ -25,7 +25,7 @@ python bbo_week13_final.py data/
 
 ## Data
 
-The data comes from the BBO capstone challenge in **[course name, e.g. Imperial College Business School / Emeritus Professional Certificate in Machine Learning and AI]**. Each of the eight functions is a hidden synthetic function on the unit hypercube [0, 1]^d, with d ranging from 2 to 8. The task is to maximise every function.
+The data comes from the BBO capstone challenge in Imperial College London. Each of the eight functions is a hidden synthetic function on the unit hypercube [0, 1]^d, with d ranging from 2 to 8. The task is to maximise every function.
 
 - **Initial data:** 10–40 points per function, supplied as `.npy` arrays (see the table below).
 - **Weekly queries:** one new input per function per week, submitted through the course portal, with the output returned a few days later. That gave 12 weekly points plus one final query per function.
@@ -95,4 +95,4 @@ The approach is surrogate-based Bayesian-style optimisation, built from scratch 
 
 ## Contact
 
-**[Your name]** · **[GitHub / LinkedIn / email]**
+**Toni Sjoman** · **sjoman.toni@gmail.com**
